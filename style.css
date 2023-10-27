@@ -11,3 +11,15 @@ body {
 .index_header {
     font-size: 60px;
 }
+
+.recipes {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipes .list {
+    padding-left: 20px;
+    background: url(images/pizza_sticker.png) no-repeat 0 0;
+    background-size: 16px 16px;
+    list-style-position: inside;
+}

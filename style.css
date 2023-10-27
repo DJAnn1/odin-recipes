@@ -68,3 +68,21 @@ html {
 .alfredo_steps_lists {
     font-size:20px;
 }
+
+#garlic_body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.garlic_ingredients_title {
+    list-style-type: none;
+    padding: 0;
+}
+
+.garlic_ingredients_lists {
+    padding-left: 45px;
+    padding-bottom: 20px;
+    background: url(.//images/bread_sticker.png) no-repeat 0 0;
+    background-size: 40px 40px;
+    list-style-position: inside;
+}

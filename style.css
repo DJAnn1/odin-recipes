@@ -50,3 +50,21 @@ html {
     font-size:20px;
     margin:auto;
 }
+
+.alfredo_ingredients_title {
+    list-style-type: none;
+    padding: 0;
+}
+
+.alfredo_ingredients_lists {
+    padding-left: 45px;
+    padding-bottom: 10px;
+    background: url(./images/cheese_sticker.png) no-repeat 0 0;
+    background-size: 30px 30px;
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+.alfredo_steps_lists {
+    font-size:20px;
+}

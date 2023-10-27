@@ -86,3 +86,22 @@ html {
     background-size: 40px 40px;
     list-style-position: inside;
 }
+
+#salmon_body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(155, 40, 165);
+}
+
+.salmon_ingredients {
+    list-style-type: none;
+    padding: 0;
+}
+
+.salmon_ingredients .salmon_lists {
+    padding-left: 45px;
+    padding-bottom: 20px;
+    background: url(.//images/fish_sticker.webp) no-repeat 0 0;
+    background-size: 40px 40px;
+    list-style-position: inside;
+    margin-left:5px;
+}

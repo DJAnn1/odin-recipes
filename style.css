@@ -8,6 +8,13 @@ body {
     background-size: cover;
 }
 
+.odin_recipes {
+    width:400px;
+    
+    border-style: solid;
+    background-image: linear-gradient(to bottom right,red, yellow);
+}
+
 .index_header {
     font-size: 60px;
 }
@@ -18,8 +25,9 @@ body {
 }
 
 .recipes .list {
-    padding-left: 20px;
+    padding-left: 45px;
+    padding-bottom: 10px;
     background: url(images/pizza_sticker.png) no-repeat 0 0;
-    background-size: 16px 16px;
+    background-size: 40px 40px;
     list-style-position: inside;
 }

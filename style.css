@@ -9,9 +9,12 @@ html {
 }
 
 .odin_recipes {
-    width:400px;
+    width:450px;
     border-style: solid;
-    background-image: linear-gradient(to bottom right,red, yellow)
+    background-image: linear-gradient(to bottom right,red, yellow);
+    margin: auto;
+    padding: 20px;
+    text-align: center;
 }
 
 .index_header {
